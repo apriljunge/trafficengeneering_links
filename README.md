@@ -5,6 +5,7 @@
 # Software
 - GeoDaten zu Gleisschema ([GitHub Repo](https://github.com/tcvdijk/intermetro) | [Demo](https://tcvdijk.github.io/intermetro/web/))
 - Globale (live) Eisenbahn- und Nahverkehrskarte ([Website](https://travic.app/))
+- Open Source BIM ([Website](https://www.bimcollab.com/de/products/bimcollab-zoom))
 
 # Computerspiele
 - Railroute ([Website](https://railroute.eu/))
@@ -25,6 +26,9 @@
 
 # Programmieren
 CodeAesthetic [youtube Account](https://www.youtube.com/@CodeAesthetic/videos)
+
+# Open Data
+- Zugdaten aus Großbritannien ([Website](https://www.opentraintimes.com/))
 
 # Talks
 - Schmeatic Mapping Workshop der Uni Bochum ([Website](https://www.ruhr-uni-bochum.de/schematicmapping/programme.html))
