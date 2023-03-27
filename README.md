@@ -23,6 +23,9 @@
 - Artikelreihe Nachtzugkritik: Berichte Nachtzugfahrten in Europa https://taz.de/Serie-Nachtzugkritik/!t5329795/
 - Tracking von gestohlenen Fahrrädern Amsterdam ([Artikel](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0279906))
 
+# Programmieren
+CodeAesthetic [youtube Account](https://www.youtube.com/@CodeAesthetic/videos)
+
 # Talks
 - Schmeatic Mapping Workshop der Uni Bochum ([Website](https://www.ruhr-uni-bochum.de/schematicmapping/programme.html))
 # Sonstiges
