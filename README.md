@@ -1,6 +1,6 @@
 
 # Infrastruktur
-- Gleispläne von Stadt-, Straßen - und U-Bahnnetzen https://www.gleisplanweb.eu/index.php
+- Gleispläne von Stadt-, Straßen - und U-Bahnnetzen ([Website](https://www.gleisplanweb.eu/index.php))
 
 # Software
 - GeoDaten zu Gleisschema ([GitHub Repo](https://github.com/tcvdijk/intermetro) | [Demo](https://tcvdijk.github.io/intermetro/web/))
@@ -12,22 +12,22 @@
 - Railroute ([Website](https://railroute.eu/))
 
 # Bahnbau
-- Erklärung von Bahnbauprozessen/ Begriffen. Empfehlung von Fachliteratur https://www.trackopedia.com/lexikon
-- Glossar der Systemtechnik des Schienenverkehrs http://www.joernpachl.de/glossar.htm
+- Erklärung von Bahnbauprozessen/ Begriffen. Empfehlung von Fachliteratur ([Trackopedia](https://www.trackopedia.com/lexikon))
+- Glossar der Systemtechnik des Schienenverkehrs ([Pachl](http://www.joernpachl.de/glossar.htm))
 
 # Netzwerke/ Platformen
 - Pegasus ([Website](https://pegasus-netzwerk.de/))
 - European Platform of Transport Science ([Website](https://www.epts.eu/news.html))
 
 # Gutes Infomaterial
-- Umweltbundesamt: https://www.umweltbundesamt.de/themen/verkehr-laerm
-- Agora Verkehrswende: https://www.agora-verkehrswende.de
+- Umweltbundesamt ([Website](https://www.umweltbundesamt.de/themen/verkehr-laerm))
+- Agora Verkehrswende ([Website](https://www.agora-verkehrswende.de))
 - Plan F (Impulse für die kommunale Fahrradmobilität) ([Website](https://plan-f.info/))
 
 # Artikel
-- "Abc auf Motordeutsch" https://taz.de/Abc-auf-Motordeutsch/!5903757/
-- "Über den Automobilen Kapitalismus und sein Ende" https://www.umsganze.org/nichts-ist-unmoeglich/
-- Artikelreihe Nachtzugkritik: Berichte Nachtzugfahrten in Europa https://taz.de/Serie-Nachtzugkritik/!t5329795/
+- "Abc auf Motordeutsch" ([Taz Artikel](https://taz.de/Abc-auf-Motordeutsch/!5903757/)
+- "Über den Automobilen Kapitalismus und sein Ende" ([Umsganze](https://www.umsganze.org/nichts-ist-unmoeglich/))
+- Artikelreihe Nachtzugkritik: Berichte Nachtzugfahrten in Europa ([Taz Artikel](https://taz.de/Serie-Nachtzugkritik/!t5329795/))
 - Tracking von gestohlenen Fahrrädern Amsterdam ([Artikel](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0279906))
 
 # Programmieren
