@@ -25,7 +25,7 @@
 - Plan F (Impulse für die kommunale Fahrradmobilität) ([Website](https://plan-f.info/))
 
 # Artikel
-- "Abc auf Motordeutsch" ([Taz Artikel](https://taz.de/Abc-auf-Motordeutsch/!5903757/)
+- "Abc auf Motordeutsch" ([Taz Artikel](https://taz.de/Abc-auf-Motordeutsch/!5903757/))
 - "Über den Automobilen Kapitalismus und sein Ende" ([Umsganze](https://www.umsganze.org/nichts-ist-unmoeglich/))
 - Artikelreihe Nachtzugkritik: Berichte Nachtzugfahrten in Europa ([Taz Artikel](https://taz.de/Serie-Nachtzugkritik/!t5329795/))
 - Tracking von gestohlenen Fahrrädern Amsterdam ([Artikel](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0279906))
