@@ -15,9 +15,14 @@
 - Erklärung von Bahnbauprozessen/ Begriffen. Empfehlung von Fachliteratur https://www.trackopedia.com/lexikon
 - Glossar der Systemtechnik des Schienenverkehrs http://www.joernpachl.de/glossar.htm
 
+# Netzwerke/ Platformen
+- Pegasus ([Website](https://pegasus-netzwerk.de/))
+- European Platform of Transport Science ([Website](https://www.epts.eu/news.html))
+
 # Gutes Infomaterial
 - Umweltbundesamt: https://www.umweltbundesamt.de/themen/verkehr-laerm
 - Agora Verkehrswende: https://www.agora-verkehrswende.de
+- Plan F (Impulse für die kommunale Fahrradmobilität) ([Website](https://plan-f.info/))
 
 # Artikel
 - "Abc auf Motordeutsch" https://taz.de/Abc-auf-Motordeutsch/!5903757/
