@@ -20,7 +20,7 @@
 - European Platform of Transport Science ([Website](https://www.epts.eu/news.html))
 
 # Journals
-Journal für Mobilität und Verkehr ([Website](https://journals.qucosa.de/jmv)) Open Access!
+Journal für Mobilität und Verkehr ([Website](https://journals.qucosa.de/jmv)) Open Access! (Deutsche Verkehrswissentschaftliche Gesellschaft e.V.)
 
 # Gutes Infomaterial
 - Umweltbundesamt ([Website](https://www.umweltbundesamt.de/themen/verkehr-laerm))
