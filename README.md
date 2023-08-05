@@ -19,6 +19,9 @@
 - Pegasus ([Website](https://pegasus-netzwerk.de/))
 - European Platform of Transport Science ([Website](https://www.epts.eu/news.html))
 
+# Journals
+Journal für Mobilität und Verkehr ([Website](https://journals.qucosa.de/jmv)) Open Access!
+
 # Gutes Infomaterial
 - Umweltbundesamt ([Website](https://www.umweltbundesamt.de/themen/verkehr-laerm))
 - Agora Verkehrswende ([Website](https://www.agora-verkehrswende.de))
