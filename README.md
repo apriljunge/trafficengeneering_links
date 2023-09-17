@@ -1,6 +1,7 @@
 
 # Infrastruktur
 - Gleispläne von Stadt-, Straßen - und U-Bahnnetzen ([Website](https://www.gleisplanweb.eu/index.php))
+- Parkraumdaten für Städte ([Karte](https://radverkehrsatlas.de/regionen/parkraum?lat=52.2632&lng=10.5163&zoom=14.1&theme=[…]evel-10~a~_F))(i~landuse~s~!(i~hidden~a)(i~default~a~_F)))~) | [DasProjekt](https://parkraum.osm-verkehrswende.org/regions/braunschweig/))
 
 # Software
 - GeoDaten zu Gleisschema ([GitHub Repo](https://github.com/tcvdijk/intermetro) | [Demo](https://tcvdijk.github.io/intermetro/web/))
