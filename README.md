@@ -8,6 +8,9 @@
 - Globale (live) Eisenbahn- und Nahverkehrskarte ([Website](https://travic.app/))
 - Open Source BIM ([Website](https://www.bimcollab.com/de/products/bimcollab-zoom))
 - Live Störungen und Baustellen DB ([Website](http://strecken.info/) | [Beta Website](https://strecken-info-beta.de/))
+- GOAT: Planungswerkzeug für die Erreichbarkeitsplanung (in Städten) ([Projekt-Webseite](https://www.open-accessibility.org/de/) | [Vertreiber](https://plan4better.de/))
+- Fair Spaces Index: wie eine gerechtere Aufteilung des Straßenraums aussehen kann ([Fair Spaces Tool](https://fair-spaces.de/fsi/) | [Walkability Tool](https://fair-spaces.de/wt/) | [Mobilitätsdatencheck](https://fair-spaces.de/md/))
+
 
 # Computerspiele
 - Railroute ([Website](https://railroute.eu/))
@@ -19,6 +22,9 @@
 # Netzwerke/ Platformen
 - Pegasus ([Website](https://pegasus-netzwerk.de/))
 - European Platform of Transport Science ([Website](https://www.epts.eu/news.html))
+
+# Stiftungen
+- Dr. Joachim und Hanna Schmidt Stiftung für Umwelt und Verkehr ([Website](https://dr-schmidt-stiftung.de/))
 
 # Journals
 Journal für Mobilität und Verkehr ([Website](https://journals.qucosa.de/jmv)) Open Access! (Deutsche Verkehrswissentschaftliche Gesellschaft e.V.)
