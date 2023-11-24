@@ -28,6 +28,7 @@
 
 # Journals
 Journal für Mobilität und Verkehr ([Website](https://journals.qucosa.de/jmv)) Open Access! (Deutsche Verkehrswissentschaftliche Gesellschaft e.V.)
+International Railway Journal (IRJ) ([Website](https://www.railjournal.com/))
 
 # Gutes Infomaterial
 - Umweltbundesamt ([Website](https://www.umweltbundesamt.de/themen/verkehr-laerm))
