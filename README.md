@@ -22,6 +22,7 @@
 # Netzwerke/ Platformen
 - Pegasus ([Website](https://pegasus-netzwerk.de/))
 - European Platform of Transport Science ([Website](https://www.epts.eu/news.html))
+- ZUG - Zentrum für Urbane Gerechtigkeit (OpenSource Projekte) ([Website](https://zug.lu/)|[Talk auf Deutsch](https://www.youtube.com/watch?v=FmkG1-qVwFI))
 
 # Stiftungen
 - Dr. Joachim und Hanna Schmidt Stiftung für Umwelt und Verkehr ([Website](https://dr-schmidt-stiftung.de/))
