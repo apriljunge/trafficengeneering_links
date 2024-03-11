@@ -10,6 +10,7 @@
 - Live Störungen und Baustellen DB ([Website](http://strecken.info/) | [Beta Website](https://strecken-info-beta.de/))
 - GOAT: Planungswerkzeug für die Erreichbarkeitsplanung (in Städten) ([Projekt-Webseite](https://www.open-accessibility.org/de/) | [Vertreiber](https://plan4better.de/))
 - Fair Spaces Index: wie eine gerechtere Aufteilung des Straßenraums aussehen kann ([Fair Spaces Tool](https://fair-spaces.de/fsi/) | [Walkability Tool](https://fair-spaces.de/wt/) | [Mobilitätsdatencheck](https://fair-spaces.de/md/))
+- Visualisierung Direktverbindungen von Bahnhöfen ([Website](https://direkt.bahn.guru/))
 
 
 # Computerspiele
