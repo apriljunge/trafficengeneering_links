@@ -11,7 +11,8 @@
 - GOAT: Planungswerkzeug für die Erreichbarkeitsplanung (in Städten) ([Projekt-Webseite](https://www.open-accessibility.org/de/) | [Vertreiber](https://plan4better.de/))
 - Fair Spaces Index: wie eine gerechtere Aufteilung des Straßenraums aussehen kann ([Fair Spaces Tool](https://fair-spaces.de/fsi/) | [Walkability Tool](https://fair-spaces.de/wt/) | [Mobilitätsdatencheck](https://fair-spaces.de/md/))
 - Visualisierung Direktverbindungen von Bahnhöfen ([Website](https://direkt.bahn.guru/))
-
+- Simulation von Verkehr (auch Bahnen, [Website](https://sumo.dlr.de/docs/Simulation/Railways.html))
+- Berechnung ÖPNV Lintim ([Website](https://lintim.net/))
 
 # Computerspiele
 - Railroute ([Website](https://railroute.eu/))
