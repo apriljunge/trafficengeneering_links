@@ -34,13 +34,13 @@
 - Dr. Joachim und Hanna Schmidt Stiftung für Umwelt und Verkehr ([Website](https://dr-schmidt-stiftung.de/))
 
 # Journals
-Journal für Mobilität und Verkehr ([Website](https://journals.qucosa.de/jmv)) -> Open Access! (Deutsche Verkehrswissentschaftliche Gesellschaft e.V.)
-International Railway Journal (IRJ) ([Website](https://www.railjournal.com/))
+- Journal für Mobilität und Verkehr ([Website](https://journals.qucosa.de/jmv)) -> Open Access! (Deutsche Verkehrswissentschaftliche Gesellschaft e.V.)
+- International Railway Journal (IRJ) ([Website](https://www.railjournal.com/))
 
 # Konferenzen
-DECOMM (Mobilitätsmanagement) ([Website](https://depomm.de/decomm/detailseite/decomm-2025/programm))
-Deutscher Nahverkehrstag ([Website](https://www.deutschernahverkehrstag.de/))
-AGFK Niedersachsen (Radverkehr) ([Website](https://www.agfk-niedersachsen.de/service/fachtagungen/fachtagung-2024.html))
+- DECOMM (Mobilitätsmanagement) ([Website](https://depomm.de/decomm/detailseite/decomm-2025/programm))
+- Deutscher Nahverkehrstag ([Website](https://www.deutschernahverkehrstag.de/))
+- AGFK Niedersachsen (Radverkehr) ([Website](https://www.agfk-niedersachsen.de/service/fachtagungen/fachtagung-2024.html))
 
 # Gutes Infomaterial
 - Umweltbundesamt ([Website](https://www.umweltbundesamt.de/themen/verkehr-laerm))
