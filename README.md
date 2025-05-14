@@ -14,8 +14,12 @@
 - Simulation von Verkehr (auch Bahnen, [Website](https://sumo.dlr.de/docs/Simulation/Railways.html))
 - Berechnung ÖPNV Lintim ([Website](https://lintim.net/))
 
-# Computerspiele
+# Computerspiele/ Simulationen
 - Railroute ([Website](https://railroute.eu/))
+- Französisches PRS-Stellwerk: ([Web basierte Simulation](https://www.utc.fr/~wschon/sr06/Simulateur-PRS/index_dev.html))
+- New Yorker U-Bahn ([Website](https://bernardgreenberg.com/Subway/))
+- ESTWsim (ESTW aus D-A-CH) ([Website](https://www.estwsim.de/cms/index.php))
+- 
 
 # Bahnbau
 - Erklärung von Bahnbauprozessen/ Begriffen. Empfehlung von Fachliteratur ([Trackopedia](https://www.trackopedia.com/lexikon))
@@ -30,7 +34,7 @@
 - Dr. Joachim und Hanna Schmidt Stiftung für Umwelt und Verkehr ([Website](https://dr-schmidt-stiftung.de/))
 
 # Journals
-Journal für Mobilität und Verkehr ([Website](https://journals.qucosa.de/jmv)) Open Access! (Deutsche Verkehrswissentschaftliche Gesellschaft e.V.)
+Journal für Mobilität und Verkehr ([Website](https://journals.qucosa.de/jmv)) -> Open Access! (Deutsche Verkehrswissentschaftliche Gesellschaft e.V.)
 International Railway Journal (IRJ) ([Website](https://www.railjournal.com/))
 
 # Konferenzen
