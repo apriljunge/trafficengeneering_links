@@ -2,6 +2,8 @@
 # Infrastruktur
 - Gleispläne von Stadt-, Straßen - und U-Bahnnetzen ([Website](https://www.gleisplanweb.eu/index.php))
 - Parkraumdaten für Städte ([Karte](https://radverkehrsatlas.de/regionen/parkraum?lat=52.2632&lng=10.5163&zoom=14.1&theme=parking&bg=default&config=!) | [DasProjekt](https://parkraum.osm-verkehrswende.org/regions/braunschweig/))
+- Cyclofix - eine Karte für Radfahrer ([Karte](https://mapcomplete.org/cyclofix.html?z=12.8&lat=52.26427532099612&lon=10.53028049628324#))
+- TRAVIC - Transit Visualization Client ([Karte](https://travic.app/?z=13&x=1174849.0&y=6847750.6&l=osm_standard&ol=))
 
 # Software
 - GeoDaten zu Gleisschema ([GitHub Repo](https://github.com/tcvdijk/intermetro) | [Demo](https://tcvdijk.github.io/intermetro/web/))
