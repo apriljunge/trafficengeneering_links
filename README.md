@@ -50,12 +50,13 @@
 - Agora Verkehrswende ([Website](https://www.agora-verkehrswende.de))
 - Plan F (Impulse für die kommunale Fahrradmobilität) ([Website](https://plan-f.info/))
 
-# Artikel/ Studien
+# Artikel/ Podcasts/ Studien
 - "Abc auf Motordeutsch" ([Taz Artikel](https://taz.de/Abc-auf-Motordeutsch/!5903757/))
 - "Über den Automobilen Kapitalismus und sein Ende" ([Umsganze](https://www.umsganze.org/nichts-ist-unmoeglich/))
 - Artikelreihe Nachtzugkritik: Berichte Nachtzugfahrten in Europa ([Taz Artikel](https://taz.de/Serie-Nachtzugkritik/!t5329795/))
 - Tracking von gestohlenen Fahrrädern Amsterdam ([Artikel](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0279906))
 - Studie - Nutzen des ÖPNV ist drei Mal so hoch wie seine Kosten ([Studie](https://mcube-cluster.de/wp-content/uploads/2025/05/FINAL-MCube_WertschoepfungOePNV_Abschlussbericht_MobileVersion.pdf)|[MCube](https://mcube-cluster.de/mcube-consulting-studie-wertschoepfung-oepnv/)|[DB](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Studie-Nutzen-des-OePNV-ist-drei-Mal-so-hoch-wie-seine-Kosten-13377014))
+- Podcast - Teurer Fahren ([ARD Mediathek](https://www.ardaudiothek.de/sendung/teurer-fahren/urn:ard:show:6adc502d6c3e4101/))
 
 # Programmieren
 CodeAesthetic [youtube Account](https://www.youtube.com/@CodeAesthetic/videos)
