@@ -79,6 +79,8 @@ CodeAesthetic [youtube Account](https://www.youtube.com/@CodeAesthetic/videos)
 - Plattform zur Terminfindung: https://www.when2meet.com/
 
 # YouTube
+- Alwin Meschede ([Youtube](https://www.youtube.com/@echoray1)) -> Unfallberichte Zugsicherung & Leittechnik
+- Gareth Dennis ([Youtube](https://youtube.com/@garethdennistv?si=HEc--nPl_G0_J-EL)) -> Railway engineer
 
 # Persönlichkeiten
 - Richard Plokhaar
