@@ -21,7 +21,9 @@
 - Französisches PRS-Stellwerk: ([Web basierte Simulation](https://www.utc.fr/~wschon/sr06/Simulateur-PRS/index_dev.html))
 - New Yorker U-Bahn ([Website](https://bernardgreenberg.com/Subway/))
 - ESTWsim (ESTW aus D-A-CH) ([Website](https://www.estwsim.de/cms/index.php))
-- 
+- SimRail ([Website](https://simrail.eu/en/)) -> Empfehlung von Richard Plokhaar
+- run8studio ([Website](https://run8studios.com/)) -> Empfehlung von Richard Plokhaar
+- zusi ([Website](https://www.zusi.de/)) -> Empfehlung von Richard Plokhaar
 
 # Bahnbau
 - Erklärung von Bahnbauprozessen/ Begriffen. Empfehlung von Fachliteratur ([Trackopedia](https://www.trackopedia.com/lexikon))
@@ -61,6 +63,8 @@
 ## Podcast
 - Teurer Fahren ([ARD Mediathek](https://www.ardaudiothek.de/sendung/teurer-fahren/urn:ard:show:6adc502d6c3e4101/))
 - Die feministische Stadt der Zukunft (Folge) ([Justitias Töchter. Der Podcast zu feministischer Rechtspolitik](https://justitias-toechter.podigee.io/50-folge48))
+## Unfallberichte
+- Altheim (Hess) - Dieburg Zugkollision ([Link zum Bericht](https://www.eisenbahn-unfalluntersuchung.de/SharedDocs/Downloads/BEU/Untersuchungsberichte/2022/215_Altheim_Hess_-_Dieburg.html)) -> Empfehlung von Richard Plokhaar
 
 # Programmieren
 CodeAesthetic [youtube Account](https://www.youtube.com/@CodeAesthetic/videos)
@@ -74,4 +78,8 @@ CodeAesthetic [youtube Account](https://www.youtube.com/@CodeAesthetic/videos)
 - domain verkehrsingenieur.in https://www.united-domains.de/suchergebnis/?is-single-search=0&domain=verkehrsingenieur&group%5B0%5D=in&SESSID=dbef8q6ubqn7dt33kv0e64nv7h
 - Plattform zur Terminfindung: https://www.when2meet.com/
 
+# YouTube
+
 # Persönlichkeiten
+- Richard Plokhaar
+- Jörn Pachl
